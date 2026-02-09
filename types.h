@@ -1,6 +1,6 @@
 
-#ifndef MY_MICROKERNEL_TYPES_H
-#define MY_MICROKERNEL_TYPES_H
+#ifndef TYPES_H
+#define TYPES_H
 
 
 typedef unsigned char      uint8_t;
